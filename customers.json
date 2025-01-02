@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mario Rossi",
+        "email": "mario.rossi@example.com",
+        "password": "password123",
+        "orders": [
+            "Classic",
+            "Trofie ai Funghi"
+        ]
+    },
+    {
+        "name": "Giulia Bianchi",
+        "email": "giulia.bianchi@example.com",
+        "password": "giulia2024",
+        "orders": [
+            "Tagliata di Manzo",
+            "Insalata Mista"
+        ]
+    }
+]
